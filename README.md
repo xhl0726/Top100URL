@@ -40,7 +40,9 @@ CPU: 1.7 GHz 4 Cores Intel Core i7
 Memory: 16 GB 2133 MHz LPDDR3
 
 #### Result:
-1G UrlFile    PartitionNum=6   Time=  
+UrlFile: 1GB    
+PartitionNum: 10 [100M per partition]
+Time:12s
 
 
 
